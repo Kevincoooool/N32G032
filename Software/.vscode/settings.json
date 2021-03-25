@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"bsp_uart1.h": "c",
+		"include.h": "c",
+		"touch.h": "c"
+	}
+}
